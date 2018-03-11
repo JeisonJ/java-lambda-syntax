@@ -48,6 +48,5 @@ private static void ordenarPorEdadCinco(List<Persona> personas) {
 - JDK8+
 
 ## Links
-
 - Más ejemplos [arquitecturajava - Blog sobre Java EE](https://www.arquitecturajava.com/java-8-lambda-syntax/)
 - Markdown written with [StackEdit](https://stackedit.io/).
